@@ -70,6 +70,7 @@ module Top();
 
     //     in0 in1 in2 out
     check( 0,  0,  0,  0 );
+    check( 0,  0,  0,  0 );
     check( 0,  1,  1,  1 );
     check( 0,  1,  0,  0 );
     check( 1,  1,  1,  1 );
